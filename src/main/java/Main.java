@@ -36,6 +36,7 @@ public class Main {
         System.out.println("GHS has spent money on " + vanderhorn.getName() +" and now has $" + ghs.getTotalMoneyEarned());
 
         System.out.println(rakshith);
-        System.out.println(tamara);
+        melissa.receiveSalary(melissa.getSalary());
+        System.out.println(melissa);
     }
 }
